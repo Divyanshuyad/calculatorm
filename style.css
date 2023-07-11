@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+
+.button{
+    padding:20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 58px;
+    background-color: black;
+    color: white ;
+    font-size: large;
+  }
+
+
+.row{
+    margin:8px 0;
+}.row input{
+    margin:0;
+    padding:20px 2px;  
+    border:  2px solid black;
+    border-radius: 5px;
+    font-size:large;
+    font-weight: 800;
+    background-color: blue;
+    color:red;
+}
+
